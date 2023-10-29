@@ -8,5 +8,9 @@ List of resources for building Hardware products.
 **Mechanical Engineering**
 - [Awesome Mechanical Engineering Resources](https://github.com/m2n037/awesome-mecheng) - Awesome Mechanical Engineering Resources - maintained by [Mukunda Madhava Nath](https://github.com/m2n037/)
 
+**Going for Production**
+- [Awesome Hardware Production](https://github.com/anujdeshpande/awesome-hardware-production) - List of awesome resources for going to production with a hardware product - maintained by [Anuj Deshpande
+](https://github.com/anujdeshpande)
+
 **Vendor List**
 - [Hardware Vendors](https://wiki.makerville.io/docs/Lists/hardware-vendors) - list of Indian vendors (e-commerce, manufacturing, etc) - maintained by [Makerville](https://makerville.io/)
