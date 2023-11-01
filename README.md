@@ -14,3 +14,6 @@ List of resources for building Hardware products.
 
 **Vendor List**
 - [Hardware Vendors](https://wiki.makerville.io/docs/Lists/hardware-vendors) - list of Indian vendors (e-commerce, manufacturing, etc) - maintained by [Makerville](https://makerville.io/)
+
+**Uncategorized**
+- [VSS: Beginners Guide to Building a Hardware Hacking Lab](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide)
