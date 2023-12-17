@@ -6,27 +6,29 @@ List of resources for building Hardware products.
 ## Learing Resources
 List of resources that could help you improve your skills in various embedded domains.
 
-#### Electronics
-**Components**
+**Electronics**
+
+Components
 - ??
 
-**PCB Design**
+PCB Design
 - ??
 
-#### Firmware
+**Firmware**
 - ??
 
-#### Platform Specific
-**Arduino**
+**Platform Specific**
+
+Arduino
 - ??
 
-**RaspberryPi**
+Raspberry Pi
 - ??
 
-**ESP32xx**
+ESP32xx
 - ??
 
-#### Project based learning
+**Project based Learning**
 - ??
 
 ## Other curations
