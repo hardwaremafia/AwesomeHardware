@@ -26,6 +26,10 @@ Raspberry Pi
 - [Official tutorials](https://www.raspberrypi.com/tutorials/) - Tutorial from official website
 - [The MagPi Magazine](https://magpi.raspberrypi.com/) - The official Raspberry Pi magazine
 
+Platform IO
+- [Official tutorials](https://docs.platformio.org/en/latest/tutorials/index.html) - Tutorial from official website
+
+
 ESP32xx
 - ??
 
