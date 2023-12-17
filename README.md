@@ -3,7 +3,7 @@ List of resources for building Hardware products.
 
 > The list is 🚧 under construction 🚧. Feel free to [add your suggestion](https://github.com/hardwaremafia/AwesomeHardware/edit/master/README.md). Don't worry much about right categorization as of now, the list will be properly reorganised later.
 
-## Learing Resources
+## Learing Resources (Embedded Systems)
 List of resources that could help you improve your skills in various embedded domains.
 
 **Electronics**
