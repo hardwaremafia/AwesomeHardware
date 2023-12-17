@@ -20,10 +20,11 @@ PCB Design
 **Platform Specific**
 
 Arduino
-- ??
+- [Official tutorials](https://docs.arduino.cc/tutorials/) - Tutorials from official website
 
 Raspberry Pi
-- ??
+- [Official tutorials](https://www.raspberrypi.com/tutorials/) - Tutorial from official website
+- [The MagPi Magazine](https://magpi.raspberrypi.com/) - The official Raspberry Pi magazine
 
 ESP32xx
 - ??
