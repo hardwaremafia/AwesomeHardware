@@ -9,7 +9,7 @@ List of resources that could help you improve your skills in various embedded do
 **Electronics**
 
 Components
-- ??
+- [Basic Electronic Components](https://www.instructables.com/Basic-Electronic-components/) - Basic guide from Instructables
 
 PCB Design
 - ??
