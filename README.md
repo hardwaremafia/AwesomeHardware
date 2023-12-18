@@ -41,6 +41,9 @@ ESP32xx
 **Mechanical Engineering**
 - [Awesome Mechanical Engineering Resources](https://github.com/m2n037/awesome-mecheng) - Awesome Mechanical Engineering Resources - maintained by [Mukunda Madhava Nath](https://github.com/m2n037/)
 
+**Embedded Systems**
+- [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - A roadmap for those who want to build a career as an Embedded Systems Engineer, along with a curated list of learning resources - maintained by [Meysam Parvizi](https://github.com/m3y54m)
+
 **Going for Production**
 - [Awesome Hardware Production](https://github.com/anujdeshpande/awesome-hardware-production) - List of awesome resources for going to production with a hardware product - maintained by [Anuj Deshpande
 ](https://github.com/anujdeshpande)
