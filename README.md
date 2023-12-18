@@ -3,39 +3,6 @@ List of resources for building Hardware products.
 
 > The list is 🚧 under construction 🚧. Feel free to [add your suggestion](https://github.com/hardwaremafia/AwesomeHardware/edit/master/README.md). Don't worry much about right categorization as of now, the list will be properly reorganised later.
 
-## Learing Resources (Embedded Systems)
-List of resources that could help you improve your skills in various embedded domains.
-
-**Electronics**
-
-Components
-- [Basic Electronic Components](https://www.instructables.com/Basic-Electronic-components/) - Basic guide from Instructables
-
-PCB Design
-- ??
-
-**Firmware**
-- ??
-
-**Platform Specific**
-
-Arduino
-- [Official tutorials](https://docs.arduino.cc/tutorials/) - Tutorials from official website
-
-Raspberry Pi
-- [Official tutorials](https://www.raspberrypi.com/tutorials/) - Tutorial from official website
-- [The MagPi Magazine](https://magpi.raspberrypi.com/) - The official Raspberry Pi magazine
-
-Platform IO
-- [Official tutorials](https://docs.platformio.org/en/latest/tutorials/index.html) - Tutorial from official website
-
-
-ESP32xx
-- ??
-
-**Project based Learning**
-- [From Nand to Tetris](https://www.nand2tetris.org/course) - Building a Modern Computer From First Principles
-
 ## Other curations
 
 **Mechanical Engineering**
